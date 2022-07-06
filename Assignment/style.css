@@ -21,23 +21,28 @@ img {
 
 .header {
     text-align: center;
+    padding: 80px;
 
 }
 
-#h1 {
+#header-h1 {
     font-size: 80px;
     font-weight: 700;
     color: white;
-    padding-top: 80px;
+
 
 }
 
-#p {
+#header-p {
     font-size: 20px;
     color: white;
     margin-left: 300px;
     margin-right: 300px;
-    padding-bottom: 200px;
+
+}
+
+#button-1 {
+    margin-bottom: 80px;
 }
 
 /* 2nd part start */
